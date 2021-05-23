@@ -1,5 +1,4 @@
 # biblioteca
-Sistema Biblioteca (projeto web do curso ciência da computação UEPB)
 
 Preparar ambiente:
   - Instalar o eclipse (http://www.eclipse.org/downloads/eclipse-packages/)
